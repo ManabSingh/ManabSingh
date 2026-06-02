@@ -26,15 +26,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManabSingh&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -85,14 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManabSingh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManabSingh&layout=compact&theme=tokyonight&hide_border=true" width="46%" alt="Top Languages" />
-</p>
-
----
 
 <p align="center"><i>Let's build something awesome together! 🚀</i></p>
